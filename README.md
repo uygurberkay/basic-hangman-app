@@ -1,8 +1,8 @@
 # Hangman
 This project contains basic hangman game which take words randomly from an API
-
-You can reach the final project with this link:
-(It was publish by netlify)
+<hr>
+You can reach the final project with this link: <br>
+(It was publish by netlify) <br>
 https://hangman-game-prototype.netlify.app/
 
 ![image](https://user-images.githubusercontent.com/50241715/219743747-ceebde05-a64b-4c18-b76e-e6faa413bf32.png)
